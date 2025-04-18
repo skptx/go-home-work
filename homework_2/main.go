@@ -6,6 +6,7 @@ func main() {
 	fmt.Println("hello from main")
 	myFunc()
 	myMessage()
+	myNewDeveloperFunction()
 }
 
 func myFunc() {
@@ -18,4 +19,8 @@ func myMessage() {
 	fmt.Println("My message")
 	// Comment
 	// Comment 2
+}
+
+func myNewDeveloperFunction() {
+	fmt.Println("My Developer Function")
 }
