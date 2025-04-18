@@ -14,5 +14,5 @@ func myFunc() {
 
 func myMessage() {
 	fmt.Println("My message")
-
+	// Comment
 }
