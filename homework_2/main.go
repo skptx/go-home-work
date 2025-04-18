@@ -10,6 +10,8 @@ func main() {
 
 func myFunc() {
 	fmt.Println("hello from my func!!")
+	// another comment
+	// another comment2
 }
 
 func myMessage() {
