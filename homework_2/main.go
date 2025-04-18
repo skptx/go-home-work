@@ -5,6 +5,7 @@ import "fmt"
 func main() {
 	fmt.Println("hello from main")
 	myFunc()
+	myMessage()
 }
 
 func myFunc() {
@@ -13,4 +14,5 @@ func myFunc() {
 
 func myMessage() {
 	fmt.Println("My message")
+
 }
