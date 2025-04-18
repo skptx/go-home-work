@@ -10,3 +10,7 @@ func main() {
 func myFunc() {
 	fmt.Println("hello from my func!!")
 }
+
+func myMessage() {
+	fmt.Println("My message")
+}
