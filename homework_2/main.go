@@ -9,5 +9,4 @@ func main() {
 
 func myFunc() {
 	fmt.Println("hello from my func!!")
-	fmt.Println("hello from my func2!!")
 }
